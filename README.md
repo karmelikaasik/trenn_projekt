@@ -1,2 +1,2 @@
 Trennikava koostamise rakendus, mis on valminud paaristööna kursuse Progremmeerimine (I) raames.
-Loodud kasutades Pygame võimalusi.
+Loodud kasutades PyGame võimalusi.
